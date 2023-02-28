@@ -24,7 +24,7 @@ public class A3_Singleton {
     }
 
     public static void main(String[] args) {
-        for (int i = 0; i < 500; i++) {
+        for (int i = 0; i < 100; i++) {
             new Thread(() -> {
                 A3_Singleton a3_singleton = A3_Singleton.getInstance();
                 System.out.println(Thread.currentThread().getName() + "------" + a3_singleton);

@@ -7,7 +7,9 @@ package com.jayden.a1_singleton;
  */
 public class A5_Singleton {
     private A5_Singleton(){
-
+        if (SingleHandler.a5_singleton!=null){
+            throw new RuntimeException("不允许非法访问");
+        }
     }
 
     //创建静态内部类
@@ -21,7 +23,7 @@ public class A5_Singleton {
     }
 
     public static void main(String[] args) {
-        for (int i = 0; i < 500; i++) {
+        for (int i = 0; i < 100; i++) {
             new Thread(() -> {
                 A4_Singleton a4_singleton = A4_Singleton.getInstance();
                 System.out.println(Thread.currentThread().getName() + "------" + a4_singleton);
