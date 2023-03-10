@@ -17,7 +17,6 @@ public enum  A8_Singleton {
     }
 
     public static A8_Singleton getInstance(){
-
         return INSTANCE;
     }
 
