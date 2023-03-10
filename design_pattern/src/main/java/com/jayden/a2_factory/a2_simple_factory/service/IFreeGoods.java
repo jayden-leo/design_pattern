@@ -5,8 +5,6 @@ import com.jayden.a2_factory.entity.ResponseResult;
 
 /**
  * 免费商品发放接口
- * @author spikeCong
- * @date 2022/9/8
  **/
 public interface IFreeGoods {
 

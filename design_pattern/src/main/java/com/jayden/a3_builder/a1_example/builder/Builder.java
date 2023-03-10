@@ -1,6 +1,6 @@
-package com.jayden.a3_builder.a1.builder;
+package com.jayden.a3_builder.a1_example.builder;
 
-import com.jayden.a3_builder.a1.product.Bike;
+import com.jayden.a3_builder.a1_example.product.Bike;
 
 public abstract class Builder {
     protected Bike mBike = new Bike();

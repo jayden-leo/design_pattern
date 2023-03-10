@@ -1,4 +1,4 @@
-package com.jayden.a3_builder.a1.product;
+package com.jayden.a3_builder.a1_example.product;
 
 public class Bike {
     //车架

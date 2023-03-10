@@ -1,7 +1,7 @@
-package com.jayden.a3_builder.a1.director;
+package com.jayden.a3_builder.a1_example.director;
 
-import com.jayden.a3_builder.a1.product.Bike;
-import com.jayden.a3_builder.a1.builder.Builder;
+import com.jayden.a3_builder.a1_example.product.Bike;
+import com.jayden.a3_builder.a1_example.builder.Builder;
 
 public class Director {
 

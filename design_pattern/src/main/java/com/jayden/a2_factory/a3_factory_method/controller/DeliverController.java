@@ -8,8 +8,6 @@ import com.jayden.a2_factory.entity.ResponseResult;
 
 /**
  * 发放奖品接口
- * @author spikeCong
- * @date 2022/9/7
  **/
 public class DeliverController {
 

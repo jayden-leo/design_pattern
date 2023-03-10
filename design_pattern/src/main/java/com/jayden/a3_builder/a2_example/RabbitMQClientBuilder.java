@@ -1,4 +1,4 @@
-package com.jayden.a3_builder.a2;
+package com.jayden.a3_builder.a2_example;
 
 /**
  * 建造者使用步骤如下:

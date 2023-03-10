@@ -1,9 +1,7 @@
-package com.jayden.a3_builder.a2;
+package com.jayden.a3_builder.a2_example;
 
 /**
  * MQ连接客户端
- * @author spikeCong
- * @date 2022/9/19
  **/
 public class RabbitMQClient2 {
 

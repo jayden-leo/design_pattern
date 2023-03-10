@@ -7,8 +7,6 @@ import com.jayden.a2_factory.a2_simple_factory.service.impl.YouKuMemberFreeGoods
 
 /**
  * 具体工厂: 生成免费商品
- * @author spikeCong
- * @date 2022/9/9
  **/
 public class FreeGoodsFactory {
 

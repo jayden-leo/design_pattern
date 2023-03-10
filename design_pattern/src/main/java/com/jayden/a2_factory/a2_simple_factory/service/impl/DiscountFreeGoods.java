@@ -6,8 +6,6 @@ import com.jayden.a2_factory.entity.ResponseResult;
 
 /**
  * 模拟打折券服务
- * @author spikeCong
- * @date 2022/9/8
  **/
 public class DiscountFreeGoods implements IFreeGoods {
 

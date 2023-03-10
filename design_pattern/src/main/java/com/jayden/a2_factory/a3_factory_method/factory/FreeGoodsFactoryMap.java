@@ -8,8 +8,6 @@ import java.util.Map;
 
 /**
  * 用简单方法模式实现: 工厂的工厂,作用是不需要每次创建新的工厂对象
- * @author spikeCong
- * @date 2022/9/9
  **/
 public class FreeGoodsFactoryMap {
 

@@ -10,8 +10,6 @@ import java.util.UUID;
 
 /**
  * 小礼品发放服务
- * @author spikeCong
- * @date 2022/9/8
  **/
 public class SmallGiftFreeGoods implements IFreeGoods {
 
