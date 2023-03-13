@@ -1,4 +1,4 @@
-package com.jayden.a2_structurer.a1_proxy.a1_example;
+package com.jayden.a2_structurer.a1_proxy.a1_static_proxy;
 
 public class UserDaoProxy implements IUserDao{
 

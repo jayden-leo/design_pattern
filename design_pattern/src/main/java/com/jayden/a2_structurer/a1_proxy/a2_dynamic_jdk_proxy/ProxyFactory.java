@@ -1,7 +1,7 @@
-package com.jayden.a2_structurer.a1_proxy.a2_example;
+package com.jayden.a2_structurer.a1_proxy.a2_dynamic_jdk_proxy;
 
-import com.jayden.a2_structurer.a1_proxy.a1_example.IUserDao;
-import com.jayden.a2_structurer.a1_proxy.a1_example.UserDaoImpl;
+import com.jayden.a2_structurer.a1_proxy.a1_static_proxy.IUserDao;
+import com.jayden.a2_structurer.a1_proxy.a1_static_proxy.UserDaoImpl;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
