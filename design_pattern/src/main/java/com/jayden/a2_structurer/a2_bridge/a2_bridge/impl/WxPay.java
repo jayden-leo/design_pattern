@@ -7,8 +7,6 @@ import java.math.BigDecimal;
 
 /**
  * 支付渠道-微信划账
- * @author spikeCong
- * @date 2022/9/26
  **/
 public class WxPay extends Pay {
 

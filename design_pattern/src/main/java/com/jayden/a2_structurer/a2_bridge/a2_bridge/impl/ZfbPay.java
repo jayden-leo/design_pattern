@@ -7,8 +7,6 @@ import java.math.BigDecimal;
 
 /**
  * 支付渠道-支付宝划账
- * @author spikeCong
- * @date 2022/9/26
  **/
 public class ZfbPay extends Pay {
 

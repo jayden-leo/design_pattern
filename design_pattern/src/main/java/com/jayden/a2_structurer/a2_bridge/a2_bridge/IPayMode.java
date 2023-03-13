@@ -2,8 +2,6 @@ package com.jayden.a2_structurer.a2_bridge.a2_bridge;
 
 /**
  * 支付模式接口
- * @author spikeCong
- * @date 2022/9/26
  **/
 public interface IPayMode {
 
