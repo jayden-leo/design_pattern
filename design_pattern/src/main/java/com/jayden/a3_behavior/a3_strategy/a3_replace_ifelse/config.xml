@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <className name="MT1101">com.jayden.a3_behavior.a3_strategy.a3_replace_ifelse.Mt1011ReceiptHandleStrategy</className>
+    <className name="MT1101">com.jayden.a3_behavior.a3_strategy.a3_replace_ifelse.Mt2101ReceiptHandleStrategy</className>
+</config>
