@@ -1,4 +1,4 @@
-package com.jayden.a1_creator.a2_factory.a1_primal_method.service;
+package com.jayden.a1_creator.a2_factory.a1_nopattern.service;
 
 import com.jayden.a1_creator.a2_factory.entity.ResponseResult;
 

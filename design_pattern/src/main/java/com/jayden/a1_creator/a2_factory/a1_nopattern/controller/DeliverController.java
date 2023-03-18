@@ -1,8 +1,8 @@
-package com.jayden.a1_creator.a2_factory.a1_primal_method.controller;
+package com.jayden.a1_creator.a2_factory.a1_nopattern.controller;
 
-import com.jayden.a1_creator.a2_factory.a1_primal_method.service.DiscountService;
-import com.jayden.a1_creator.a2_factory.a1_primal_method.service.SmallGiftService;
-import com.jayden.a1_creator.a2_factory.a1_primal_method.service.YoukuMemberService;
+import com.jayden.a1_creator.a2_factory.a1_nopattern.service.DiscountService;
+import com.jayden.a1_creator.a2_factory.a1_nopattern.service.SmallGiftService;
+import com.jayden.a1_creator.a2_factory.a1_nopattern.service.YoukuMemberService;
 import com.jayden.a1_creator.a2_factory.entity.AwardInfo;
 import com.jayden.a1_creator.a2_factory.entity.ResponseResult;
 import com.jayden.a1_creator.a2_factory.entity.SmallGiftInfo;

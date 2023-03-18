@@ -1,6 +1,6 @@
-package com.jayden.a1_creator.a2_factory.a1_primal_method;
+package com.jayden.a1_creator.a2_factory.a1_nopattern;
 
-import com.jayden.a1_creator.a2_factory.a1_primal_method.controller.DeliverController;
+import com.jayden.a1_creator.a2_factory.a1_nopattern.controller.DeliverController;
 import com.jayden.a1_creator.a2_factory.entity.AwardInfo;
 import org.junit.Test;
 

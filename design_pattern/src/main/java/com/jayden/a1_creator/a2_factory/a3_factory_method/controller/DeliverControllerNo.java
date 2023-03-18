@@ -17,10 +17,8 @@ public class DeliverControllerNo {
         FreeGoodsFactory freeGoodsFactory = null;
 
         if(awardInfo.getAwardType() == 1){
-
             freeGoodsFactory = new DiscountFreeGoodsFactory();
         }else if(awardInfo.getAwardType() == 2){
-
             freeGoodsFactory = new SmallGiftFreeGoodsFactory();
         }
 
